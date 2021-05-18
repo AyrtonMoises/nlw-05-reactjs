@@ -38,7 +38,3 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 - Inicie o servidor com `yarn dev`
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
